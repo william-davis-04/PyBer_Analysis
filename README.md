@@ -17,7 +17,7 @@ The purpose of this project is to create a DataFrame that summariezes some of th
 
 These categories are organized and by area i.e. (Urban, Suburban, Rual) and displayed in the summary table for comparison.
 
-![Summary](\Pyber_Summary_DF.png)
+![Summary](https://github.com/william-davis-04/PyBer_Analysis/blob/main/Screenshot%202021-01-03%20134830.jpg?raw=true)
 
 In addition to the summary table above, a multiple line plot was created to show the sum of the fares for each city type by month.  This chart provided a great visual analysis of the relationship between the total fares and the time of year (months) for each of the city types (Urban, Suburban, Rual). On clear visual cue from the chart is the sharp increase in total fares between February and March which is common among each city type.  Also of note is the increase in total fares in suburban areas in the month of May, which differs from suburban and rural city types. See the chart below for a visual.  
 
